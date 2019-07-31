@@ -1,0 +1,22 @@
+{
+  "name": "Imitatio Christi",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/imitatio-christi/master/assets",
+  "book_id": 960,
+  "book_url": "https://bubblin.io/book/imitatio-christi-by-a-kempis-thomas"
+}
